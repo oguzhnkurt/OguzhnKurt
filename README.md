@@ -5,7 +5,7 @@ A software developer from Turkey, Konya.
 
 How to Get in Touch 
 
-📌 LinkedIn: Oğuzhan Kurt 
+📌 LinkedIn: [Oğuzhan Kurt](https://www.linkedin.com/in/oguzhankurtt/) 
 
 📧 mail: kurt4298@gmail.com 
 
