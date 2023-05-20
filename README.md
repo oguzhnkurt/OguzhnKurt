@@ -9,7 +9,7 @@ How to Get in Touch
 
 📧 mail: kurt4298@gmail.com 
 
-🚀 Twitter: @oguzhaankurt 
+🚀 Twitter: [@oguzhaankurt](https://twitter.com/oguzhaankurt) 
 
 Feel free to reach out to me. I'm always open to interesting conversations and collaboration opportunities! 
 
