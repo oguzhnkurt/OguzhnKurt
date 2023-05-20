@@ -2,7 +2,7 @@
 
 A software developer from Turkey, Konya.
 
-About Me
+### About Me
 
 🎓 Graduated from Computer Engineering at Aydın Adnan Menderes University.
 
@@ -12,7 +12,7 @@ About Me
 
 ⚡ Love to challenge myself with new projects and always eager to learn.
 
-How to Get in Touch 
+### How to Get in Touch 
 
 📌 LinkedIn: [Oğuzhan Kurt](https://www.linkedin.com/in/oguzhankurtt/) 
 
