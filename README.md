@@ -1,7 +1,12 @@
 ### Hi 👋, I'm Oğuzhan Kurt
 
 A software developer from Turkey, Konya.
-📫 How to reach me kurt4298@gmail.com
+
+About Me 
+🎓 Graduated from Computer Engineering at Aydın Adnan Menderes University.
+🔭 I’m currently exploring the world of technology and sharpening my skills in programming.
+🌱 Passionate about Java, Spring, and Spring Boot.
+⚡ Love to challenge myself with new projects and always eager to learn.
 
 How to Get in Touch 
 
