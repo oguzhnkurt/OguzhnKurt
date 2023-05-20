@@ -5,8 +5,11 @@ A software developer from Turkey, Konya.
 About Me
 
 🎓 Graduated from Computer Engineering at Aydın Adnan Menderes University.
-🔭 I’m currently exploring the world of technology and sharpening my skills in programming.
+
+💻 I’m currently exploring the world of technology and sharpening my skills in programming.
+
 🌱 Passionate about Java, Spring, and Spring Boot.
+
 ⚡ Love to challenge myself with new projects and always eager to learn.
 
 How to Get in Touch 
