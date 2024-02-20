@@ -22,6 +22,8 @@ A software developer from Turkey, Konya.
 
 Feel free to reach out to me. I'm always open to interesting conversations and collaboration opportunities! 
 
+buymeacoffee.com/?via=oguzhnkurt
+
  
 
 <!--
