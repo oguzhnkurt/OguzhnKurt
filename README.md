@@ -8,9 +8,11 @@ A software developer from Turkey, Konya.
 
 💻 I’m currently exploring the world of technology and sharpening my skills in programming.
 
-🌱 Passionate about Java, Spring, and Spring Boot.
+🌱 Passionate about Laravel, PHP, and React.
 
 ⚡ Love to challenge myself with new projects and always eager to learn.
+
+- 🔭 I’m currently working on Sezin Tıbbi Görüntüleme (Sezin Medical Imaging Company) for 1 year.
 
 ### How to Get in Touch 
 
@@ -23,13 +25,12 @@ A software developer from Turkey, Konya.
 Feel free to reach out to me. I'm always open to interesting conversations and collaboration opportunities! 
 
  
-
 <!--
 **oguzhnkurt/OguzhnKurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
