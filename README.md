@@ -28,7 +28,6 @@ As the founder of **Devkom Yazılım**, I lead a technology-driven company speci
 Looking to build something extraordinary, require robust digital services, or want to discuss AI innovations? Let's talk.
 
 - 🌐 **Company Website:** [devkom.com.tr](https://devkom.com.tr)
-- 💼 **LinkedIn:** [Oğuzhan Kurt](https://linkedin.com/in/oguzhankurt) <!-- Kendi linkin ile güncellemeyi unutma -->
 - 📧 **Email:** kurt4298@gmail.com
 - 🐦 **Twitter:** [@oguzhaankurt](https://twitter.com/oguzhaankurt)
 
