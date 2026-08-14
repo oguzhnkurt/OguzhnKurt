@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oğuzhan Kurt</h1>
+<h1 align="center">Hi 👋, I'm Oğuzhan </h1>
 <h3 align="center">Founder at <a href="https://devkom.com.tr">Devkom Yazılım</a> | Software & AI Engineer</h3>
 
 <p align="center">
