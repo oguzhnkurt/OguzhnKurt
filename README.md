@@ -1,41 +1,36 @@
-### Hi 👋, I'm Oğuzhan Kurt
+<h1 align="center">Hi 👋, I'm Oğuzhan Kurt</h1>
+<h3 align="center">Founder at <a href="https://devkom.com.tr">Devkom Yazılım</a> | Software & AI Engineer</h3>
 
-A software developer from Turkey, Konya.
+<p align="center">
+  Innovating at the intersection of scalable web architectures, cross-platform mobile experiences, and applied Artificial Intelligence.
+</p>
 
-### About Me
+---
 
-🎓 Graduated from Computer Engineering at Aydın Adnan Menderes University.
+### 🏢 About Me & Devkom Yazılım
+As the founder of **Devkom Yazılım**, I lead a technology-driven company specializing in high-performance digital solutions. We transform complex business requirements into robust, user-centric applications across web and mobile platforms. By integrating cutting-edge AI technologies, we optimize workflows and build smart solutions for the modern digital ecosystem.
 
-💻 I’m currently exploring the world of technology and sharpening my skills in programming.
+### 🚀 Core Services & Expertise
 
-🌱 Passionate about Laravel, PHP, and React.
+*   **🌐 Full-Stack Web Development:** Architecting secure, scalable enterprise applications, responsive web platforms, and advanced e-commerce infrastructures utilizing **Laravel, PHP, and React**.
+*   **📱 Mobile Application Development:** Delivering seamless, high-performance mobile experiences. Managing the full development lifecycle of applications currently actively published on both the **Apple App Store** and **Google Play**.
+*   **🧠 Artificial Intelligence & Automation:** Prototyping and deploying generative AI solutions (including advanced **Generative APIs** and LLM integrations), building smart AI-driven workflows, and developing complex **Python** automation architectures for data processing and business operations.
+*   **🎮 Interactive Media & 3D Tech:** Engineering physics-driven environments and systems using **Unity 6**, and exploring the frontiers of AI-to-3D generation pipelines.
 
-⚡ Love to challenge myself with new projects and always eager to learn.
+### 💻 Tech Stack
+*   **Languages:** PHP, Python, C#, JavaScript, TypeScript
+*   **Frameworks & Libraries:** Laravel, React, .NET Core
+*   **AI & Automation:** LLM APIs, Prompt Engineering, Python Scripting
+*   **Mobile & Game Engines:** iOS / Android SDKs, Unity 6
+*   **Infrastructure & Tools:** macOS Ecosystem, Supabase, Adapty, Git
 
-- 🔭 I’m currently working on Sezin Tıbbi Görüntüleme (Sezin Medical Imaging Company) for 1 year.
+### 📫 Let's Connect
+Looking to build something extraordinary, require robust digital services, or want to discuss AI innovations? Let's talk.
 
-### How to Get in Touch 
+- 🌐 **Company Website:** [devkom.com.tr](https://devkom.com.tr)
+- 💼 **LinkedIn:** [Oğuzhan Kurt](https://linkedin.com/in/oguzhankurt) <!-- Kendi linkin ile güncellemeyi unutma -->
+- 📧 **Email:** kurt4298@gmail.com
+- 🐦 **Twitter:** [@oguzhaankurt](https://twitter.com/oguzhaankurt)
 
-📌 LinkedIn: [Oğuzhan Kurt](https://www.linkedin.com/in/oguzhankurtt/) 
-
-📧 mail: kurt4298@gmail.com 
-
-🚀 Twitter: [@oguzhaankurt](https://twitter.com/oguzhaankurt) 
-
-Feel free to reach out to me. I'm always open to interesting conversations and collaboration opportunities! 
-
- 
-<!--
-**oguzhnkurt/OguzhnKurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align="center"><i>"Building the future of digital experiences through code, creativity, and AI."</i></p>
